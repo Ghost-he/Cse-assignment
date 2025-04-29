@@ -1,4 +1,4 @@
-// I add two image one of player and other one is of enemies dont forget to download if you want to run the code.
+// I add two image one of player (CH11) and other one is of enemies (em11) dont forget to download if you want to run the code.
 //keep both image in same folder where you are keeping your code other wise it will give error.
 
 import javax.swing.*;
