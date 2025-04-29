@@ -1,3 +1,6 @@
+// I add two image one of player and other one is of enemies dont forget to download if you want to run the code.
+//keep both image in same folder where you are keeping your code other wise it will give error.
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
